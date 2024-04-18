@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devin Alvarez</h1>
 <h3 align="center">I'm interested in mathematical modeling in engineering disciplines.</h3>
 
+- 🔭 I’m currently working on **variable fourth-order Runge-Kutta algorithm**
+
+- 📫 How to reach me **devalva216@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
