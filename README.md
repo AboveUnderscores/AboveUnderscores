@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devin Alvarez</h1>
-<h3 align="center">I'm interested in mathematical modeling in engineering disciplines.</h3>
+<h3 align="center">I'm interested in analog/digital synthesis, as well as mathematical modeling.</h3>
 
-- 🔭 I’m currently working on **variable fourth-order Runge-Kutta algorithm**
+- 🔭 I’m currently working on **empirical-line calibration for variable lighting conditions**
 
 - 📫 How to reach me **devalva216@gmail.com**
 
